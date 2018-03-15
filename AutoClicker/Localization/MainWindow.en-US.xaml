@@ -1,0 +1,29 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib"
+                    xmlns:conv="clr-namespace:AutoClicker.Converters">
+
+    <system:String x:Key="ResourceDictionaryName">Loc-en-US</system:String>
+    
+    <!--Titlebar-->
+    <system:String x:Key="About">about</system:String>
+    
+    <!--UI-->
+    <system:String x:Key="ProcessName">Process name</system:String>
+    <system:String x:Key="Delay">Delay (ms)</system:String>
+    <system:String x:Key="ReleaseDelay">Release delay (ms)</system:String>
+    <system:String x:Key="State">State</system:String>
+
+    <system:String x:Key="Start">Start</system:String>
+    <system:String x:Key="Stop">Stop</system:String>
+    <system:String x:Key="Delete">Delete</system:String>
+
+    <system:String x:Key="Hotkeys">Hotkeys</system:String>
+    <system:String x:Key="StartAll">Start all</system:String>
+    <system:String x:Key="StopAll">Stop all</system:String>
+
+    <!--States-->
+    <system:String x:Key="State_Error">Error</system:String>
+    <system:String x:Key="State_Running">Running</system:String>
+    <system:String x:Key="State_Waiting">Waiting</system:String>
+</ResourceDictionary>

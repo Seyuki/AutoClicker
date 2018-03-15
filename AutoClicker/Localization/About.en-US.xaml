@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib"
+                    xmlns:conv="clr-namespace:AutoClicker.Converters">
+
+    <system:String x:Key="ResourceDictionaryName">Loc-en-US</system:String>
+
+    <system:String x:Key="WindowTitle">About ClickBot</system:String>
+    
+    <system:String x:Key="DeveloppedBy">Developped by</system:String>
+    <system:String x:Key="IconBy">Icon by</system:String>
+    <system:String x:Key="LibrariesUsed">Libraries used</system:String>
+</ResourceDictionary>

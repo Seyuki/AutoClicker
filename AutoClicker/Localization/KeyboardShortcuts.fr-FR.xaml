@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    
+    <system:String x:Key="ResourceDictionaryName">Loc-fr-FR</system:String>
+    
+    <system:String x:Key="StartActive">Démarrer le bot de l'application active</system:String>
+    <system:String x:Key="StopActive">Arrêter le bot de l'application active</system:String>
+    <system:String x:Key="AddActive">Ajouter l'application active</system:String>
+    <system:String x:Key="StartAll">Démarrer tous les bots</system:String>
+    <system:String x:Key="StopAll">Arrêter tous les bots</system:String>
+</ResourceDictionary>
